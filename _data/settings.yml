@@ -3,7 +3,7 @@ basic_settings:
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: /images/IMG_6362.JPG
+  logo_image: /images/Circleprofile2.jpg
   logo_width: 200
 
 menu_settings:
@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: 
+  footer_tagline:
 
 grid_settings:
   overlay_opacity: 0.8
