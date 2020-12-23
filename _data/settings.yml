@@ -18,10 +18,10 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline: Emily Hill Photo
+  footer_tagline: 
 
 grid_settings:
-  overlay_opacity: 0.8
+  overlay_opacity: 0.
   grid_spacing: 20
   content_alignment: bottom
 
