@@ -4,7 +4,7 @@ basic_settings:
 
 header_settings:
   logo_image: /images/Circleprofile2.jpg
-  logo_width: 200
+  logo_width: 50
 
 menu_settings:
   menu_items:
@@ -18,7 +18,7 @@ menu_settings:
       url: '/contact'
 
 footer_settings:
-  footer_tagline:
+  footer_tagline: Emily Hill Photo
 
 grid_settings:
   overlay_opacity: 0.8

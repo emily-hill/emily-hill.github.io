@@ -1,7 +1,7 @@
-site: Board Jekyll Theme
+site: Emily Hill Photo
 
 url: https://emily-hill.github.io
-baseurl: 
+baseurl:
 
 collections:
   pages:
@@ -44,7 +44,7 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-  
+
 sass:
   style: compressed
 
