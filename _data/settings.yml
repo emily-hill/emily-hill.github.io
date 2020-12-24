@@ -3,7 +3,7 @@ basic_settings:
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: /images/IMG_6362.jpg
+  logo_image: 
   logo_width: 50
 
 menu_settings:
@@ -74,18 +74,18 @@ color_settings:
 
 font_settings:
   font_embed: '<link href="https://fonts.googleapis.com/css2?family=Pompiere&display=swap" rel="stylesheet">'
-  title_font: '"Pompiere", cursive'
-  body_font: '"Pompiere", cursive'
+  title_font: ''Pompiere', cursive'
+  body_font: ''Pompiere', cursive'
   regular_weight: 300
   bold_weight: 500
   site_title:
     small_size: 20
-    medium_size: 24
-    large_size: 28
+    medium_size: 26
+    large_size: 30
     weight: 500
     letter_spacing: -0.02
   menu:
-    small_size: 30
+    small_size: 28
     medium_size: 14
     large_size: 15
     weight: 500
