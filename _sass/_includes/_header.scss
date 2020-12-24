@@ -12,7 +12,7 @@
 	padding: 20px 0;
 
 	.wrap {
-		max-width: 50%;
+		max-width: 100%;
 
 		@include mq(tabletp) {
 			padding: 0 20px;
@@ -98,7 +98,7 @@
 		position: absolute;
 		top: 8px;
 		left: 0;
-		width: 100%;
+		width: 50%;
 		height: 3px;
 		@include transition(all 0.1s);
 		background: $text-dark-color;
