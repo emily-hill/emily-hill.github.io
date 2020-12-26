@@ -91,7 +91,7 @@ font_settings:
   menu:
     small_size: 30
     medium_size: 14
-    large_size: 15
+    large_size: 18
     weight: 500
     letter_spacing: 0
   grid_item_title:
