@@ -5,6 +5,8 @@ description: About Emily
 featured_image: /images/Circleprofile2.jpg
 ---
 
+<img src="images/Circleprofile2.jpg" width="200" height="200" />
+
 ![](/images/Circleprofile2.jpg)
 
 ## Features
