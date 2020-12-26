@@ -1,9 +1,9 @@
 basic_settings:
-  site_title: Emily Hill Photo
+  site_title: Emily Photo
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image:
+  logo_image: /images/Circleprofile2.jpg
   logo_width: 50
 
 menu_settings:
@@ -91,7 +91,7 @@ font_settings:
   menu:
     small_size: 30
     medium_size: 14
-    large_size: 18
+    large_size: 25
     weight: 500
     letter_spacing: 0
   grid_item_title:
