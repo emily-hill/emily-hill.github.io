@@ -12,7 +12,7 @@
 	padding: 20px 0;
 
 	.wrap {
-		max-width: 50%;
+		max-width: 100%;
 
 		@include mq(tabletp) {
 			padding: 0 20px;
