@@ -7,7 +7,9 @@ featured_image: /images/Circleprofile2.jpg
 
 <img src="images/Circleprofile2.jpg" width="200" height="200" />
 
-![](/images/Circleprofile2.jpg)
+
+Welcome to my website and thank you for visiting! Photography is one of the few hobbies of mine over the years that has stuck. It began taking snaps on holidays and on trips around the world for work and from there developed into a real passion. It often acts an escape, a chance to reflect, and an opportunity to be outside appreciating the natural world. I thoroughly enjoy taking photos and I have reached the point at which I would like to share those photos with others, in the hope of bringing joy to those who might relate to them in some way, whether it be reminiscing about a place you have also visited, or a local landmark you haven't seen from that angle or with that light before. 
+
 
 ## Features
 
