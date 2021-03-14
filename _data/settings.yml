@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Emily Hill
-  favicon_image: /images/favicon.png
+  favicon_image: /images/Circleprofile2.jpg
 
 header_settings:
   logo_image: #/images/Circleprofile2.jpg
@@ -22,7 +22,7 @@ footer_settings:
 
 grid_settings:
   overlay_opacity: 0.5
-  grid_spacing: 20
+  grid_spacing: 5
   content_alignment: bottom
 
 contact_settings:
