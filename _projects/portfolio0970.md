@@ -3,7 +3,7 @@ title: 'Thrunton Woods'
 subtitle: 'Northumberland, England'
 date: 2018-06-30 00:00:00
 description: Board is a stylish full-width masonry grid theme. Made for designers, artists, photographers and developers to show off their best work.
-featured_image: '/images/Portfolio/Crops/Bamburgh-sunrise.jpg'
+featured_image: '/images/Portfolio/Crops/Blyth-pipe.jpg'
 ---
 
 #![](/images/Portfolio/3.jpg)
