@@ -5,6 +5,18 @@ description: Board is a stylish full-width masonry grid theme.
 featured_image: /images/demo/about.jpg
 ---
 
-{% include contact-form.html %}
 
-We've made a contact form that you can use with [Formspree](https://formspree.io/create/jekyllthemes) to handle up to 50 submissions per month for free. You could also easily switch out the end-point to use another contact form service.
+<div class="gallery" data-columns="3">
+	<img src="/images/Prints/NewcastleQuayside/Baltic-sunset.jpg">
+	<img src="/images/Prints/NewcastleQuayside/TyneBridge-autumn.jpg">
+	<img src="/images/Prints/NewcastleQuayside/Baltic-sunset.jpg">
+	<img src="/images/Prints/NewcastleQuayside/Baltic-sunset.jpg">
+</div>
+
+
+---
+### Seen another photo you like?
+
+All of my other photos are also available as prints, so if you would like to request of a print that is not on this page or Etsy, please just send a message using the form below
+
+{% include contact-form.html %}

@@ -464,3 +464,8 @@ section {
 		@include translate(0,30px);
 	}
 }
+
+div.desc {
+  padding: 15px;
+  text-align: center;
+}
