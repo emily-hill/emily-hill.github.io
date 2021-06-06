@@ -22,7 +22,7 @@ footer_settings:
 
 grid_settings:
   overlay_opacity: 0.5
-  grid_spacing: 5
+  grid_spacing: 7
   content_alignment: bottom
 
 contact_settings:
