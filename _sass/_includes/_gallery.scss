@@ -34,10 +34,12 @@
 
 	img {
 			width: 100%;
+			display:block;
 		}
 
 	figure {
 		width:100%;
+
 	}
 
 	figcaption {
@@ -45,6 +47,20 @@
 		line-height: 2;
 	}
 }
+	.gallery__item__link {
+		display: block;
+		cursor: zoom-in;
+	}
+
+//.gallery__item:hover {
+  //-ms-transform: scale(3); /* IE 9 */
+  //-webkit-transform: scale(1.5); /* Safari 3-8 */
+  //transform: scale(3);
+//}
+
+
+
+
 
 
 

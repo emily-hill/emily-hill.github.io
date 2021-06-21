@@ -10,6 +10,7 @@
 
 .header {
 	padding: 20px 0;
+	text-align: center;
 
 	.wrap {
 		max-width: 100%;
@@ -21,19 +22,23 @@
 }
 
 .header__logo {
-	display: inline;
+	//display: inline;
 	width: $logo-width;
 	max-width: 80%;
 
+
 	@include mq(tabletp) {
-		float: left;
+		float: right;
 		max-width: 50%;
 	}
 }
 
 .header__logo__img {
-	width: 50%;
+	width: 30%;
 	height: auto;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .header__title {
@@ -89,8 +94,8 @@
 .menu__toggle__icon {
 	float: right;
 	position: relative;
-	width: 24px;
-	height: 20px;
+	width: 20px;
+	height: 16px;
 	margin-left: 8px;
 
 	span, span:before, span:after {
@@ -116,7 +121,7 @@
 .menu--open .menu__toggle__icon {
 
 	span:before, span:after {
-		background: $overlay-text-color !important;
+		background: $text-medium-color !important;
 	}
 
 	span {
@@ -144,7 +149,7 @@
 	right: 0;
 	bottom: 0;
 	left: 0;
-	background: rgba($overlay-background-color,0.75);
+	background: rgba($background-color,1);
 	overflow: auto;
 
 	visibility: hidden;
@@ -158,6 +163,22 @@
 		overflow: visible;
 		opacity: 1;
 		@include transition(none);
+	}
+	.socials {
+		margin-top: 20px;
+		height: 30px;
+
+		@include mq(tabletp) {
+			height: 40px;
+		}
+
+		@include mq(laptop) {
+			position: absolute;
+			top: 50%;
+			right: $grid-spacing;
+			margin-top: 0;
+			@include translate(0,-50%);
+		}
 	}
 }
 
@@ -193,11 +214,11 @@
 .menu__list__item__link {
 	font-size: $menu-small;
 	font-weight: $menu-weight;
-	color: $overlay-text-color;
+	color: $text-medium-color;
 	padding: 10px 0;
 
 	&:hover {
-		color: $overlay-accent-color;
+		color: $accent-color;
 	}
 
 	@include mq(tabletp) {
@@ -230,7 +251,7 @@
 
 	@include mq(tabletp) {
 		margin-top: 0;
-		padding: 11px 20px 12px;
+		padding: 50px 20px 12px;
 		font-size: 15px;
 	}
 }

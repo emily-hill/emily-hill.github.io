@@ -52,23 +52,25 @@ High quality prints are available either framed or unframed from my Etsy store. 
 ### Further afield
 <div class="gallery" data-columns="3">
 	<div class="gallery__item">
+
 		<figure>
 			<img src="/images/Prints/NewcastleQuayside/Baltic-sunset.jpg">
 			<figcaption>Fig.1 - Trulli, Puglia, Italy <br><a href="https://jekyllthemes.io/theme/board-portfolio-jekyll-theme" class="button button--small">Buy now</a></figcaption>
 		</figure>
-	</div>
-	<div class="gallery__item">
+		</div>
+		<div class="gallery__item">
+
 		<figure>
 			<img src="/images/Prints/NewcastleQuayside/Baltic-sunset.jpg">
 			<figcaption>Fig.1 - Trulli, Puglia, Italy <br><a href="https://jekyllthemes.io/theme/board-portfolio-jekyll-theme" class="button button--small">Buy now</a></figcaption>
 		</figure>
-	</div>
-	<div class="gallery__item">
+		</div>
+		<div class="gallery__item">
 		<figure>
 			<img src="/images/Prints/NewcastleQuayside/Baltic-sunset.jpg">
 			<figcaption>Fig.1 - Trulli, Puglia, Italy <br><a href="https://jekyllthemes.io/theme/board-portfolio-jekyll-theme" class="button button--small">Buy now</a></figcaption>
 		</figure>
-	</div>
+		</div>
 </div>
 
 
